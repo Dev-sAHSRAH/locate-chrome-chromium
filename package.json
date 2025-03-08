@@ -1,0 +1,18 @@
+{
+  "name": "locate-chrome-chromium",
+  "version": "1.0.0",
+  "description": "Helps you to get the path of chrome or chromium browsers in your system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "chromium",
+    "google-chrome",
+    "browser",
+    "path-find"
+  ],
+  "author": "Harsha",
+  "license": "MIT"
+}
